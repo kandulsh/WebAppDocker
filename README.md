@@ -21,4 +21,4 @@ String 1: app String 2: app
 
 Output: Strings are equal
 
-Future work: Our team plans to extend the webservice by including an advanced option of encryption and decryption of text. Encryption and decryption is done using AES(Advanced encryption standard) in a secured way. User needs to give the text and we will be displaying text statistics(number of words, number of sentences, uppercase letters, lower case letters etc..) and the number of occurences of any word in inputted text along with Encrypting and decrypting it using AES Standards.
+Future work: To extend the webservice by including an advanced option of encryption and decryption of text. Encryption and decryption is done using AES(Advanced encryption standard) in a secured way. User needs to give the text and we will be displaying text statistics(number of words, number of sentences, uppercase letters, lower case letters etc..) and the number of occurences of any word in inputted text along with Encrypting and decrypting it using AES Standards.
