@@ -1,0 +1,35 @@
+body                                                                            
+{
+background-color:white;
+font-size: 17px;
+font-family: 'Comic sans MS';
+color:black;
+text-align:center;
+
+}
+
+h1{
+color:#00cc99;
+margin-centre:40px;
+font-family: 'Arial';
+text-align:center;
+}
+
+#submit                                                                        
+                                                                                
+{
+background-color:black ;
+border: 1px solid;
+color: white;
+font-family:'Verdana';
+font-size: 20px;
+}
+
+
+input[type="text"]                                                             
+
+                                                                               
+
+{
+font-size: 20px;
+}
